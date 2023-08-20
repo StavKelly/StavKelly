@@ -1,4 +1,5 @@
-- Hi, I’m @StavKelly 👋 👩🏽‍💻
+Hi, I’m Stav 👋 👩🏽‍💻
+------------------------
 - I’m currently learning DevOps 
 - Sharing updates on LinkedIn
 
