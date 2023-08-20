@@ -3,6 +3,8 @@ Hi, I’m Stav 👋 👩🏽‍💻
 - I’m currently learning DevOps 
 - Sharing updates on LinkedIn
 
+![visiting]()
+
 
 <!---
 StavKelly/StavKelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
