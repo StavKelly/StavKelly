@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @StavKelly
-- I'm from Israel
+- Hi, I’m @StavKelly 👋 👩🏽‍💻
 - I’m currently learning DevOps 
 - Sharing updates on LinkedIn
-- 
-- 📫 How to reach me stav.kelly7@gmail.com
+
 
 <!---
 StavKelly/StavKelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
