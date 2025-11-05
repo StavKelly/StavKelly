@@ -1,8 +1,6 @@
 Hi, I’m Stav 👋 👩🏽‍💻
 --------------------------------
 
-#![githubprofilequoetking](https://github.com/StavKelly/StavKelly/assets/126481795/e8339cf2-70f6-4a8a-983c-319fec91fc88)
-
 - I’m currently learning DevOps 
 - Sharing updates on LinkedIn
 
